@@ -21,14 +21,14 @@ export const dynamicApps = [
   {
     name: "dynamic-app1",
     entry:
-      "https://my.mybricks.world/mfs/project/433644610379845/433667163340869/433667163340869.html",
+      "https://test.mybricks.world/mfs/app/pcpage/test/500238873010245.html",
     container: "#container2",
     activeRule: "/dynamic-app1",
   },
   {
     name: "dynamic-app2",
     entry:
-      "https://my.mybricks.world/mfs/project/433644610379845/433645954568261/433645954568261.html",
+      "https://test.mybricks.world/mfs/app/pcpage/test/500240055246917.html",
     container: "#container2",
     activeRule: "/dynamic-app2",
   },
